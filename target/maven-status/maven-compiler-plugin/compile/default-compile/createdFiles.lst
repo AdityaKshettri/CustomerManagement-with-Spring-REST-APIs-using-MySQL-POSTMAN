@@ -1,0 +1,8 @@
+springrest\dao\CustomerDAO.class
+springrest\service\CustomerService.class
+springrest\dao\CustomerDAOImpl.class
+springrest\config\MySpringMvcDispatcherServletInitializer.class
+springrest\rest\CustomerRestController.class
+springrest\entity\Customer.class
+springrest\config\DemoAppConfig.class
+springrest\service\CustomerServiceImpl.class
